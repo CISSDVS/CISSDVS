@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Denny v Sajan
+👋 Hi, I’m Denny v Sajan
 
 <!---
 CISSDVS/CISSDVS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
